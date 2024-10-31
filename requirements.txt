@@ -1,18 +1,18 @@
 
- matplotlib
+matplotlib
 sklearn 
- metrics
+metrics
 sklearn.model_selection 
- train_test_split
- GridSearchCV
- cross_validate
- sklearn.pipeline 
- make_pipeline
- Pipeline
- sklearn.preprocessing
- MinMaxScaler
- StandardScaler
- OneHotEncoder
+train_test_split
+GridSearchCV
+cross_validate
+sklearn.pipeline 
+make_pipeline
+Pipeline
+sklearn.preprocessing
+MinMaxScaler
+StandardScaler
+OneHotEncoder
 sklearn.linear_model 
 LogisticRegression
 sklearn.svm
